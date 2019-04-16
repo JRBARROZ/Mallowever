@@ -1,5 +1,5 @@
 # Mallowever
-### Projeto instalação automática de ferramentas essenciais para desenvolvedores web em ambiente linux.
+### Projeto instalação automática de ferramentas essenciais para desenvolvedores web em ambiente linux baseados em (DEBIAN).
 ![Captura de tela de 2019-04-15 23-15-09](https://user-images.githubusercontent.com/40250320/56181748-7f012e00-5fd4-11e9-96de-5ac20def6082.png)
 
 
