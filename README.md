@@ -38,7 +38,7 @@ chmod +x argumentos.sh
 
 ```
 # Inspiração
-Criei esse projeto pois estava cansando de todas as vezes que formatar um computador com linux ter que instalar pacotes um por um, ento pensei porquê não juntar isso tudo em uma coisa automatizada?, dai surgiu a ideia do projeto.
+Criei esse projeto pois estava cansando de todas as vezes que formatar um computador com linux ter que instalar pacotes um por um, então pensei porquê não juntar isso tudo em uma coisa automatizada?, dai surgiu o MallowEver X_X.
 
 # Licença
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
